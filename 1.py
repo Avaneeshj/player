@@ -6,4 +6,4 @@ for i in s:
 n=[]
 n=l[::-1]
 for j in range(b):
-    print(n[j],end=" ")
+    print(n[j],end="")
